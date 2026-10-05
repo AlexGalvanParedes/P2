@@ -1,3 +1,6 @@
+Alex Galvan Paredes y Alex Fernandez
+==================================
+
 PAV - P2: detección de actividad vocal (VAD)
 ============================================
 
